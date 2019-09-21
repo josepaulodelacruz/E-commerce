@@ -1,1 +1,1 @@
-**Simple React E-commerce with Stripe payment**
+**Simple React E-commerce with Stripe payment. firebase**
